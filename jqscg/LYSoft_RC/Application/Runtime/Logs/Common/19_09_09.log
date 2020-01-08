@@ -1,0 +1,96 @@
+[ 2019-09-09T09:32:19+08:00 ] 192.168.8.240 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T09:40:03+08:00 ] 192.168.8.240 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T09:40:04+08:00 ] 192.168.8.240 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T09:40:04+08:00 ] 192.168.8.240 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T09:40:05+08:00 ] 192.168.8.240 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:27:18+08:00 ] ::1 /LYSoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:32:52+08:00 ] ::1 /LySoft_RC/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:42:33+08:00 ] ::1 /LySoft_RC/Public/images/blue-back.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:42:33+08:00 ] ::1 /LySoft_RC/Public/images/arrow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:42:33+08:00 ] ::1 /LySoft_RC/Public/images/white-icon-khmz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:43:14+08:00 ] ::1 /LySoft_RC/Public/images/images/arrow.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:43:14+08:00 ] ::1 /LySoft_RC/Public/images/images/blue-back.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:43:14+08:00 ] ::1 /LySoft_RC/Public/images/images/white-icon-khmz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:50:56+08:00 ] ::1 /LySoft_RC/Public/images/white-icon-khmz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:50:57+08:00 ] ::1 /LySoft_RC/Public/images/white-icon-khmz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2019-09-09T19:52:41+08:00 ] ::1 /LySoft_RC/index.php/Homejh/cpthtj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Homejh
+

@@ -1,0 +1,144 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="zh">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="stylesheet" type="text/css" href="/LySoft_RC/Public/css/rc-template-ddfh.css" />
+		<title></title>
+	</head>
+	<body>
+		<div id="template">
+			<div class="templateTitle"><a href="<?php echo U('jh/jh1');?>"><img src="/LySoft_RC/Public/images/img/blue-back.png"></a>下织来货情况</div>
+			<div class="templateSelectBox">
+				<div class="floor">
+					<div class="aJgs">按加工商<img src="/LySoft_RC/Public/images/img/arrow.png"></div>
+					<div class="aSj">按时间<img src="/LySoft_RC/Public/images/img/arrow.png"></div>
+					<div class="aBh">按品名<img src="/LySoft_RC/Public/images/img/arrow.png"></div>
+					<div class="gd">更多<img src="/LySoft_RC/Public/images/img/arrow.png"></div>
+				</div>
+				<div class="floor2">
+					<div class="aGg">按规格</div>
+					<div class="aYs">按颜色</div>
+				</div>
+			</div>
+			<div class="templateContent">
+				<div class="topContent"><span>
+						<div></div>
+					</span><span>隐藏结单和已发完数据</span></div>
+				<ul>
+					<li>
+						<div class="liContent">
+							<div class="liContentTop">
+								<div class="liName"><img src="/LySoft_RC/Public/images/img/white-icon-khmz.png">张若男</div>
+								<div class="liZt">未结单s</div>
+								<div class="lirq">2019-08-07</div>
+							</div>
+							<div class="liContentMiddle">
+								<div><span>品名：</span>75D牛奶丝</div>
+								<div><span>匹数：</span>1</div>
+							</div>
+							<div class="liContentMiddle">
+								<div><span>流水号：</span>1</div>
+								<div><span>规格：</span>170*50 cm/kg</div>
+							</div>
+							<div class="liContentBottom">
+								<div><span style="margin-right: .5rem;">开单单号：</span>SDC5464456456466</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<!-- <div class="templateZt">
+				<div class="ztActive">全部</div>
+				<div>未结单</div>
+				<div>已结单</div>
+				<div class="box"></div>
+			</div> -->
+			<div id="templateContentMx">
+				<div class="Mxtitle">详情信息</div>
+				<ul>
+					<li>张若男</li>
+					<li>
+						<div class="liline">
+							<div><span>品名：</span>牛奶丝</div>
+							<div><span>编号：</span>75DNNS</div>
+						</div>
+						<div class="liline">
+							<div><span>流水号：</span>1</div>
+							<div><span>颜色：</span>白色</div>
+						</div>
+						<div class="liline">
+							<div><span>匹数：</span>100</div>
+							<div><span>色号：</span>5ef</div>
+						</div>
+						<div class="liline">
+							<div><span>重量：</span>50kg</div>
+							<div><span>单位：</span>kg</div>
+						</div>
+						<div class="liline">
+							<div><span>规格：</span>20*500cm/kg</div>
+							<div><span>结单状态：</span>未结单</div>
+						</div>
+						<div class="liline">
+							<div style="width: 100%;"><span>开单单号：</span>
+								<p>SDC5464456456466</p>
+							</div>
+						</div>
+						<div class="liline">
+							<div><span>生产匹数：</span>200</div>
+							<div><span>生产重量：</span>2000</div>
+						</div>
+						<div class="liline">
+							<div><span>入库匹数：</span>5000</div>
+							<div><span>入库重量：</span>4400</div>
+						</div>
+						<div class="liline">
+							<div><span>发货数量：</span>500</div>
+							<div><span>发货匹数：</span></div>
+						</div>
+						<div class="liline">
+							<div><span>入库匹数(坯布)：</span>655</div>
+							<div><span>入库重量(坯布)：</span>50</div>
+						</div>
+						<div class="liline">
+							<div><span>库存匹数(坯布)：</span>58</div>
+							<div><span>当前重量(坯布)：</span>55855</div>
+						</div>
+						<div class="liline">
+							<div style="width: 100%;"><span>单据备注：</span></div>
+						</div>
+						<div class="liline">
+							<div style="width: 100%;"><span>记录备注：</span></div>
+						</div>
+					</li>
+				</ul>
+				<div class="confirm">
+					<div>确定</div>
+				</div>
+			</div>
+			<div id="templateSelectMask">
+				<input type="text" placeholder="请输入关键字搜索" value="" />
+				<div class="dateS">
+					<input type="date" value="" />-
+					<input type="date" value="" />
+				</div>
+				<ul>
+					<li>没有数据</li>
+				</ul>
+				<div class="maskBottom">
+					<div>确定</div>
+					<div>取消</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			var module = '/LySoft_RC/index.php/Home';
+			var img = "/LySoft_RC/Public/images/img";
+		</script>
+		<script src="/LySoft_RC/Public/js/jquery-2.2.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/LySoft_RC/Public/js/Tools.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/LySoft_RC/Public/js/rc-xzlhqk.js" type="text/javascript" charset="utf-8"></script>
+		
+	</body>
+</html>

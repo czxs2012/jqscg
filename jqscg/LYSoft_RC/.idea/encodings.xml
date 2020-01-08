@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Application/Common/conf/config.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/Controller/JhController.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/Controller/MxController.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/Controller/PlusController.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/Controller/TjController.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/View/Jh/rc-scqk.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application/Home/View/Plus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/css/common.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/css/index.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/css/jh.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/css/mx.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/css/tj.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/js/immersed.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/js/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/js/jh.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Public/js/tj.js" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

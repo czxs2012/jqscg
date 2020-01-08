@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="MobileOptimized" content="320"/>
+		<title>Hello H5+</title>
+		<script type="text/javascript" src="../js/common.js"></script>
+		<script type="text/javascript">
+
+function scaned(t, r, f){
+	document.getElementById("demo").innerHTML=r;
+	
+}
+
+function onempty(){
+	if(window.plus){
+		plus.nativeUI.alert('无扫描记录');
+	} else {
+		alert('无扫描记录');
+	}
+}
+		</script>
+		<link rel="stylesheet" href="../css/common.css" type="text/css" charset="utf-8"/>
+		<style type="text/css" media="screen">
+
+		</style>
+	</head>
+	<body >
+			<p id="demo">a</p>
+			<div class="button" onclick="clicked('barcode_scan.html',true,true)">扫一扫</div>			
+<p><a style="text-decoration:none" href="{:U('Plus/sm')}"><button   type="submit" name="a" id="a"   >a</button></a>
+	
+
+</html>

@@ -1,0 +1,10 @@
+[ 2019-09-03T12:07:02+08:00 ] 192.168.8.222 /LYSoft_RC/index.php/Home/Jh/rcddfhqkcx/?startDay=&endDay=&date=&ckmc=&khmc=&bh=&gg=&ys=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: select khbh,khmc,ckmc,lsdh as lsh,rq,a.dh as kddh,bh,pm,gg,dj,je,dw,ysmc as ys,sl as dgzl,ps as dgps,b.bz as jlbz,a.bz as djbz,jd,yyps as fhps,yysl as fhzl,(sl-yysl) as wfzl from cpxsdd_dj a,cpxsdd_jl b
+where a.dh=b.dh  [ RunTime:0.0186s ]
+

@@ -1,0 +1,829 @@
+[ 2019-09-27T16:26:58+08:00 ] ::1 /LYSoft_RC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2019-09-27T16:26:58+08:00 ] ::1 /LYSoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 64 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2019-09-27T16:26:58+08:00 ] ::1 /LYSoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 12 Ë°å.
+NOTIC: [8] Undefined index: pwd D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 13 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0039s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T16:27:43+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T16:28:19+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T16:31:23+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T16:32:11+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T16:32:32+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T16:33:12+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T16:36:10+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T16:36:54+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T16:40:40+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T16:41:26+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T16:54:09+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T16:54:33+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 18 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, null given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 18 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:07:07+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:07:22+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:08:02+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:08:29+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:33:52+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:34:17+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T17:34:31+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:37:48+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:39:42+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Array to string conversion D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 23 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T17:40:44+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 27 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T17:41:26+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 27 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T17:41:27+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 27 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:41:28+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, string given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] array_keys() expects parameter 1 to be array, integer given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 21 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 27 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:42:44+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:44:35+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:46:21+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:47:53+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:48:11+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:52:01+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] Missing argument 2 for Home\Controller\CommonController::insert(), called in D:\WWW\LYSoft_RC\Application\Home\Controller\JxcController.class.php on line 30 and defined D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined variable: array D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined variable: key D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+ERR: 102:[Microsoft][SQL Server Native Client 10.0][SQL Server]'values' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : insert into Array() values
+ERR: 102:[Microsoft][SQL Server Native Client 10.0][SQL Server]'values' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : insert into Array() values
+
+[ 2019-09-27T17:52:10+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+NOTIC: [2] Missing argument 2 for Home\Controller\CommonController::insert(), called in D:\WWW\LYSoft_RC\Application\Home\Controller\JxcController.class.php on line 30 and defined D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined variable: array D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined variable: key D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T17:52:16+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] Missing argument 2 for Home\Controller\CommonController::insert(), called in D:\WWW\LYSoft_RC\Application\Home\Controller\JxcController.class.php on line 30 and defined D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined variable: array D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined variable: key D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:52:44+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] Missing argument 2 for Home\Controller\CommonController::insert(), called in D:\WWW\LYSoft_RC\Application\Home\Controller\JxcController.class.php on line 30 and defined D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined variable: array D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 19 Ë°å.
+NOTIC: [8] Undefined variable: key D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 33 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T17:53:16+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2019-09-27T17:55:06+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T17:55:18+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T17:55:44+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T19:17:02+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T19:17:05+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T19:17:05+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T19:18:09+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T19:18:10+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T19:19:06+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T19:19:28+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2019-09-27T19:22:00+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-27T19:22:10+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T19:22:23+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T19:22:35+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T19:23:11+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-27T19:23:34+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+NOTIC: [2] addcslashes() expects exactly 2 parameters, 1 given D:\WWW\LYSoft_RC\Application\Home\Controller\CommonController.class.php Á¨¨ 49 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T19:24:15+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T20:01:39+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+ERR: SQLSTATE[IMSSP]: An error occurred translating the query string to UTF-16: ‘⁄∂‡◊÷Ω⁄µƒƒø±Í¥˙¬Î“≥÷–£¨√ª”–¥À Unicode ◊÷∑˚ø…“‘”≥…‰µΩµƒ◊÷∑˚°£
+.
+
+[ 2019-09-27T20:02:35+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[IMSSP]: An error occurred translating the query string to UTF-16: ‘⁄∂‡◊÷Ω⁄µƒƒø±Í¥˙¬Î“≥÷–£¨√ª”–¥À Unicode ◊÷∑˚ø…“‘”≥…‰µΩµƒ◊÷∑˚°£
+.
+
+[ 2019-09-27T20:02:59+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T20:03:48+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-27T20:03:57+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[IMSSP]: An error occurred translating the query string to UTF-16: ‘⁄∂‡◊÷Ω⁄µƒƒø±Í¥˙¬Î“≥÷–£¨√ª”–¥À Unicode ◊÷∑˚ø…“‘”≥…‰µΩµƒ◊÷∑˚°£
+.
+
+[ 2019-09-27T20:04:38+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: SQLSTATE[IMSSP]: An error occurred translating the query string to UTF-16: ‘⁄∂‡◊÷Ω⁄µƒƒø±Í¥˙¬Î“≥÷–£¨√ª”–¥À Unicode ◊÷∑˚ø…“‘”≥…‰µΩµƒ◊÷∑˚°£
+.
+
+[ 2019-09-27T20:08:17+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: insert into test(sex,name,gz)values ('121','111',5000),('11','212',3000) [ RunTime:0.0078s ]
+
+[ 2019-09-27T20:10:04+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: insert into test(sex,name,gz)values ('121','',5000),('11','',3000) [ RunTime:0.0029s ]
+
+[ 2019-09-27T20:10:42+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: insert into test(name,sex,gz)values ('','121',5000),('','121',3000) [ RunTime:0.0068s ]
+
+[ 2019-09-27T20:11:48+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: insert into test(name,sex,gz)values ('ÊùéÁôΩ','121',5000),('ÊùéÂº∫','121',3000) [ RunTime:0.0078s ]
+
+[ 2019-09-27T20:12:16+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: insert into test(name,sex,gz)values ('ÊùéÁôΩ','121',5000),('ÊùéÂº∫','121',3000) [ RunTime:0.0029s ]
+
+[ 2019-09-27T20:12:38+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: insert into test(name,sex,gz)values ('ÊùéÁôΩ','121',5000),('ÊùéÂº∫','121',3000) [ RunTime:0.0039s ]
+
+[ 2019-09-27T20:13:06+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: insert into test(name,sex,gz)values ('ÊùéÁôΩ','121',5000),('ÊùéÂº∫','121',3000) [ RunTime:0.0020s ]
+
+[ 2019-09-27T20:13:32+08:00 ] ::1 /LYSoft_RC/index.php/home/jxc/cpxsfhbc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: 207:[Microsoft][SQL Server Native Client 10.0][SQL Server]¡–√˚ 'name1' Œﬁ–ß°£
+ [ SQLËØ≠Âè• ] : insert into test(name1,sex,gz)values ('ÊùéÁôΩ1','Áî∑',5000),('ÊùéÂº∫','Áî∑',3000)
+ERR: 207:[Microsoft][SQL Server Native Client 10.0][SQL Server]¡–√˚ 'name1' Œﬁ–ß°£
+ [ SQLËØ≠Âè• ] : insert into test(name1,sex,gz)values ('ÊùéÁôΩ1','Áî∑',5000),('ÊùéÂº∫','Áî∑',3000)
+

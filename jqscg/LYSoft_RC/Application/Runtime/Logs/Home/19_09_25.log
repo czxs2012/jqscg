@@ -1,0 +1,356 @@
+[ 2019-09-25T13:12:55+08:00 ] 192.168.8.231 /LYSoft_RC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-25T13:12:55+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:12:55+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: pwd D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php 第 13 行.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0010s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:12:58+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL:  select * from dabmda where id = '1' and mm = '1'  [ RunTime:0.0020s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php 第 43 行.
+SQL: select gx from dabmda where id='1' [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:12:58+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:12:59+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/tj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:12:59+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/ThisMonth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL:  select (case when jd = 1 then '已完成' else '未完成' end) as jd,khbh,khmc,dddh,lsdh,rq,a.dh,bh,pm,gg,dw,ysmc,ps,b.bz as bz_1,a.bz from scscd_dj a,scscd_jl b
+                  where ch=0 and a.dh=b.dh and rq between '2019-09-01 00:00:00' and '2019-09-30 23:59:59'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:00+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/xlxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL:  select * from dakhda where sfty = 0  [ RunTime:0.0029s ]
+SQL:  select * from dacpda where sfty = 0  [ RunTime:0.0000s ]
+SQL:  select * from scscd_dj where ch = 0  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:13:01+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/sxcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL:  select (case when jd = 1 then '已完成' else '未完成' end) as jd,khbh,khmc,dddh,lsdh,rq,a.dh,bh,pm,gg,dw,ysmc,ps,
+                b.bz as bz_1,a.bz from scscd_dj a,scscd_jl b where ch=0 and a.dh=b.dh     and jd = ''    [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:01+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/jldh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\TjController.class.php 第 175 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-25T13:13:01+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/mx/mx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-25T13:13:01+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/mx/cxmx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\MxController.class.php 第 11 行.
+SQL:  select a.dddh,a.khmc,b.pm,b.gg,b.ysmc,b.ps,c.tmbh,c.gxmc,(case when c.jhsj <> '' then c.jhsj else '未交货' end ) as jhsj 
+                  from scscd_dj a, scscd_jl b, scscd_jhdj c where a.dh = b.dh and a.dh = c.dh and b.xh = c.xh and a.dh = 'SCD1908180002' order by c.id  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:02+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/tj/ThisMonth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL:  select (case when jd = 1 then '已完成' else '未完成' end) as jd,khbh,khmc,dddh,lsdh,rq,a.dh,bh,pm,gg,dw,ysmc,ps,b.bz as bz_1,a.bz from scscd_dj a,scscd_jl b
+                  where ch=0 and a.dh=b.dh and rq between '2019-09-01 00:00:00' and '2019-09-30 23:59:59'  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:13:04+08:00 ] 192.168.8.231 /LYSoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:05+08:00 ] 192.168.8.231 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:05+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL:  select * from dabmda where id = '1'  [ RunTime:0.0020s ]
+SQL:  select * from dabmda where id <> '1' order by id  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:13:05+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:13:07+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL:  select * from dabmda where id = '5' and mm = '1'  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php 第 43 行.
+SQL: select gx from dabmda where id='5' [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2019-09-25T13:13:07+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/jh/jh1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: select gx from dabmda where bm='' [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 32 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2019-09-25T13:13:08+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/jh/rcscqk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2019-09-25T13:13:08+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/Jh/scqkcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: select d.rkjd,d.khmc,d.rq,d.khbh,d.dh as kddh,d.dddh,j.pm,d.jd,d.lsdh as lsh,j.bh,j.ysmc as ys, 
+               j.gg,j.dw,j.ps as scps,j.sl as sczl,j.yyps as rkps,yysl as rkzl,(sl-yysl) as wrzl,(cast(cast( case when sl=0 then(yysl/1) else (yysl/sl) end *100 as decimal(10,2)) as varchar(50))) as scjd,(ps-yyps) as wrps from scscd_dj d,scscd_jl j 
+               where d.dh=j.dh and d.ch=0 and d.rq  between '2019-09-25 00:00:00' and '2019-09-25 23:59:59' [ RunTime:0.0059s ]
+
+[ 2019-09-25T13:13:08+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/Jh/scqkcx?zt=%E5%85%A8%E9%83%A8&startDay=2019-09-25&endDay=2019-09-25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: select d.rkjd,d.khmc,d.rq,d.khbh,d.dh as kddh,d.dddh,j.pm,d.jd,d.lsdh as lsh,j.bh,j.ysmc as ys, 
+               j.gg,j.dw,j.ps as scps,j.sl as sczl,j.yyps as rkps,yysl as rkzl,(sl-yysl) as wrzl,(cast(cast( case when sl=0 then(yysl/1) else (yysl/sl) end *100 as decimal(10,2)) as varchar(50))) as scjd,(ps-yyps) as wrps from scscd_dj d,scscd_jl j 
+               where d.dh=j.dh and d.ch=0 and d.rq  between '2019-09-25 00:00:00' and '2019-09-25 23:59:59' [ RunTime:0.0010s ]
+
+[ 2019-09-25T13:13:26+08:00 ] 192.168.8.231 /LySoft_RC/index.php/Home/Jh/scqkcx?zt=%E5%85%A8%E9%83%A8&startDay=2018-01-10&endDay=2019-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: select d.rkjd,d.khmc,d.rq,d.khbh,d.dh as kddh,d.dddh,j.pm,d.jd,d.lsdh as lsh,j.bh,j.ysmc as ys, 
+               j.gg,j.dw,j.ps as scps,j.sl as sczl,j.yyps as rkps,yysl as rkzl,(sl-yysl) as wrzl,(cast(cast( case when sl=0 then(yysl/1) else (yysl/sl) end *100 as decimal(10,2)) as varchar(50))) as scjd,(ps-yyps) as wrps from scscd_dj d,scscd_jl j 
+               where d.dh=j.dh and d.ch=0 and d.rq  between '2018-01-10 00:00:00' and '2019-12-01 23:59:59' [ RunTime:0.0059s ]
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: yysl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+NOTIC: [8] Undefined index: sl D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php 第 2146 行.
+

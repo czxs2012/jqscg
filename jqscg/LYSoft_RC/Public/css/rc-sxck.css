@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html,
+body {
+  height: 100%; }
+
+#sxck {
+  width: 100%;
+  height: 100%;
+  background-color: #f4f1f4;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden; }
+  #sxck .sxckTitle {
+    width: 100%;
+    height: 2.5rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  #sxck .selectBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .3rem; }
+    #sxck .selectBox .selectActive {
+      color: #43b1df; }
+    #sxck .selectBox div {
+      background-color: white; }
+    #sxck .selectBox .floor {
+      width: 100%;
+      height: 2.5rem;
+      display: flex; }
+      #sxck .selectBox .floor div {
+        font-size: 0.9rem;
+        display: flex;
+        width: 25%;
+        height: 100%;
+        justify-content: center;
+        align-items: center; }
+        #sxck .selectBox .floor div img {
+          width: 0.5rem;
+          margin-left: 0.2rem;
+          margin-top: 0.3rem; }
+    #sxck .selectBox .floor2 {
+      width: 100%;
+      height: 2.5rem;
+      display: none; }
+      #sxck .selectBox .floor2 div {
+        font-size: 0.9rem;
+        display: flex;
+        width: 25%;
+        height: 100%;
+        justify-content: center;
+        align-items: center; }
+  #sxck .sxckContent {
+    width: 100%;
+    flex: 1;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden; }
+    #sxck .sxckContent .topContent {
+      font-size: .8rem;
+      width: 96%;
+      height: 1.8rem;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      border-bottom: #ececec solid 1px; }
+      #sxck .sxckContent .topContent div {
+        width: .4rem;
+        height: .4rem;
+        border: 1px solid #121212;
+        border-radius: 50%;
+        margin-right: .3rem; }
+      #sxck .sxckContent .topContent .topActive {
+        background-color: #43b1df;
+        border: none !important; }
+    #sxck .sxckContent ul {
+      list-style-type: none;
+      width: 96%;
+      flex: 1;
+      padding-bottom: .5rem;
+      overflow-y: auto; }
+      #sxck .sxckContent ul li {
+        margin-top: .5rem;
+        margin-left: 1%;
+        width: 98%;
+        height: 8rem;
+        border: #43b1df 1px solid;
+        border-radius: .5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-shadow: 2px 2px .2rem #eee; }
+        #sxck .sxckContent ul li .tTop {
+          width: 96%;
+          font-weight: 500;
+          height: 1.5rem;
+          box-sizing: border-box;
+          border-bottom: solid #43b1df 1px;
+          display: flex;
+          justify-content: space-between; }
+        #sxck .sxckContent ul li .tContent {
+          width: 96%;
+          height: 1.3rem;
+          display: flex; }
+          #sxck .sxckContent ul li .tContent div {
+            font-size: .8rem;
+            height: 100%;
+            width: 50%;
+            display: flex;
+            align-items: center; }
+  #sxck .sxckBack {
+    width: 100%;
+    height: 3rem;
+    background-color: #f4f1f4;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    #sxck .sxckBack .back {
+      width: 90%;
+      height: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #43b1df;
+      color: white;
+      border-radius: 1.5rem; }
+  #sxck #selectMask {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    top: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    #sxck #selectMask input {
+      margin-top: 1rem;
+      width: 94%;
+      height: 2rem;
+      border-radius: .5rem; }
+    #sxck #selectMask ul {
+      padding-bottom: .5rem;
+      width: 94%;
+      flex: 1;
+      list-style-type: none;
+      overflow-y: auto;
+      display: flex;
+      align-items: center;
+      flex-direction: column; }
+      #sxck #selectMask ul li {
+        margin-top: .8rem;
+        width: 98%;
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 .2rem #707070; }
+      #sxck #selectMask ul .liActive {
+        background-color: #43b1df;
+        color: white; }
+    #sxck #selectMask .maskBottom {
+      width: 94%;
+      height: 4rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between; }
+      #sxck #selectMask .maskBottom div {
+        width: 38%;
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 .2rem #707070; }
+
+.animate {
+  animation: do .8s ease-out forwards; }
+
+@keyframes do {
+  25% {
+    transform: translateY(100px); }
+  50% {
+    transform: translateY(0px); }
+  75% {
+    transform: translateY(25px); }
+  100% {
+    transform: translateY(0px); } }

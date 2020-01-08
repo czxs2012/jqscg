@@ -1,0 +1,44 @@
+.zxdlMask{
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background-color: rgba(0,0,0,.1);
+			z-index: 99998;
+		}
+		.zxdlMask .zxdlbox{
+	    position: fixed;
+		width: 68%;
+		height: 22rem;
+		margin-top: 1rem;
+		left: 50%;
+		transform: translate(-50%);
+		background-color: #fff;
+		border-radius: 10px;
+		color: #43b1df;
+		z-index: 99998;
+		}
+		.zxdlMask .zxdlbox div:nth-child(1) {
+			margin-top: 2rem;
+			padding-bottom: 1rem;
+			font-size: 2.5rem;
+		}
+		.zxdlMask .zxdlbox div:nth-child(2) {
+			font-size: 2rem;
+			padding-top: 1rem;
+		}
+		.zxdlMask .zxdlbox div:nth-child(3) {
+			font-size: 1.5rem;
+			width: 15%;
+			text-align: center;
+			font-size: 2rem;
+			height: 4rem;
+		}
+		.zxdlMask .zxdlbox div:nth-child(4) {
+			font-size: 1.5rem;
+			width: 15%;
+			text-align: center;
+			font-size: 2rem;
+			height: 4rem;
+		}

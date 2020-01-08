@@ -1,0 +1,362 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html,
+body {
+  width: 100%;
+  height: 100%; }
+
+#template {
+  width: 100%;
+  height: 100%;
+  background-color: #f4f1f4;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden; }
+  #template .templateTitle {
+    width: 100%;
+    height: 2.5rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; }
+    #template .templateTitle a {
+      height: 1.1rem;
+      left: 1rem;
+      position: absolute; }
+      #template .templateTitle a img {
+        height: 100%; }
+  #template .templateSelectBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.3rem; }
+    #template .templateSelectBox .selectActive {
+      color: #43b1df; }
+    #template .templateSelectBox div {
+      background-color: white; }
+    #template .templateSelectBox .floor {
+      width: 100%;
+      height: 2.5rem;
+      display: flex; }
+      #template .templateSelectBox .floor div {
+        font-size: 0.9rem;
+        display: flex;
+        width: 25%;
+        height: 100%;
+        justify-content: center;
+        align-items: center; }
+        #template .templateSelectBox .floor div img {
+          width: 0.5rem;
+          margin-left: 0.2rem;
+          margin-top: 0.3rem; }
+    #template .templateSelectBox .floor2 {
+      width: 100%;
+      flex-wrap: wrap;
+      height: 0;
+      display: flex;
+      overflow: hidden;
+      transition: height 0.3s ease; }
+      #template .templateSelectBox .floor2 div {
+        font-size: 0.9rem;
+        display: flex;
+        width: 25%;
+        height: 2.5rem;
+        justify-content: center;
+        align-items: center; }
+  #template .templateContent {
+    width: 100%;
+    flex: 1;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    #template .templateContent ul {
+      list-style-type: none;
+      width: 100%;
+      flex: 1;
+      padding-bottom: 0.3rem;
+      overflow-y: auto;
+      box-sizing: border-box; }
+      #template .templateContent ul li {
+        margin-top: 0.8rem;
+        margin-left: 2%;
+        width: 96%;
+        height: 6rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 0 0.2rem #707070;
+        display: flex; }
+        #template .templateContent ul li .liContent {
+          width: 94%;
+          height: 5.5rem;
+          margin: auto; }
+          #template .templateContent ul li .liContent .liContentTop {
+            width: 100%;
+            height: 2rem;
+            box-sizing: border-box;
+            border-bottom: solid 0.3rem #43b1df;
+            border-radius: 0 0 0 0.4rem;
+            display: flex;
+            position: relative; }
+            #template .templateContent ul li .liContent .liContentTop .liName {
+              position: absolute;
+              top: 0;
+              left: 0;
+              background-color: #43b1df;
+              border-radius: 0.4rem 0.4rem 0 0;
+              width: 6.6rem;
+              height: 1.8rem;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              color: white; }
+              #template .templateContent ul li .liContent .liContentTop .liName img {
+                height: 1.2rem;
+                margin-left: 0.5rem; }
+              #template .templateContent ul li .liContent .liContentTop .liName div {
+                font-size: .8rem;
+                height: 1.8rem;
+                flex: 1;
+                padding-left: .2rem;
+                box-sizing: border-box;
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+                justify-content: center; }
+            #template .templateContent ul li .liContent .liContentTop .liZt {
+              margin: auto; }
+            #template .templateContent ul li .liContent .liContentTop .lirq {
+              position: absolute;
+              top: 0;
+              right: 0;
+              font-size: 0.7rem;
+              width: 5rem;
+              height: 1.8rem;
+              display: flex;
+              align-items: center;
+              justify-content: center; }
+          #template .templateContent ul li .liContent .liContentMiddle {
+            width: 100%;
+            height: 1.2rem;
+            display: flex;
+            align-items: center; }
+            #template .templateContent ul li .liContent .liContentMiddle div {
+              width: 50%;
+              height: 100%;
+              display: flex;
+              align-items: center;
+              font-size: 0.7rem; }
+              #template .templateContent ul li .liContent .liContentMiddle div span {
+                color: #43b1df; }
+            #template .templateContent ul li .liContent .liContentMiddle div:nth-child(2) {
+              width: 50%; }
+          #template .templateContent ul li .liContent .liContentBottom {
+            width: 100%;
+            height: 1.2rem;
+            display: flex;
+            align-items: center; }
+            #template .templateContent ul li .liContent .liContentBottom div {
+              width: 100%;
+              height: 100%;
+              display: flex;
+              align-items: center;
+              font-size: 0.7rem; }
+              #template .templateContent ul li .liContent .liContentBottom div span {
+                color: #43b1df;
+                display: flex; }
+  #template .templateZt {
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    margin-top: 0.2rem;
+    background-color: white;
+    position: relative; }
+    #template .templateZt div {
+      width: 33.3333%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center; }
+    #template .templateZt .box {
+      position: absolute;
+      width: 33.333333%;
+      height: 0.2rem;
+      left: 0;
+      top: -0.2rem;
+      background-color: #43b1df; }
+  #template .ztActive {
+    color: #43b1df; }
+  #template #templateContentMx {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f1f4;
+    position: absolute;
+    top: 0%;
+    transform: scale(0);
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    #template #templateContentMx .Mxtitle {
+      width: 100%;
+      height: 2.5rem;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center; }
+    #template #templateContentMx ul {
+      width: 100%;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      list-style-type: none; }
+      #template #templateContentMx ul li:nth-child(1) {
+        height: 2.8rem;
+        width: 96%;
+        background-color: #43b1df;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0.5rem 0.5rem 0 0;
+        box-shadow: 0 0 0.2rem #707070;
+        margin-top: 0.5rem;
+        color: white; }
+      #template #templateContentMx ul li:nth-child(2) {
+        flex: 1;
+        width: 96%;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0 0 0.5rem 0.5rem;
+        box-shadow: 0 0 0.2rem #707070;
+        margin-top: 0.5rem; }
+        #template #templateContentMx ul li:nth-child(2) .liline {
+          width: 100%;
+          flex: 1;
+          display: flex;
+          padding-left: 0.5rem;
+          box-sizing: border-box; }
+          #template #templateContentMx ul li:nth-child(2) .liline div {
+            font-size: 0.8rem;
+            flex: 1;
+            height: 100%;
+            display: flex;
+            align-items: center; }
+            #template #templateContentMx ul li:nth-child(2) .liline div span {
+              color: #43b1df; }
+            #template #templateContentMx ul li:nth-child(2) .liline div p {
+              letter-spacing: 2px;
+              text-indent: 1em; }
+    #template #templateContentMx .confirm {
+      width: 100%;
+      height: 4rem;
+      display: flex;
+      align-items: center;
+      justify-content: center; }
+      #template #templateContentMx .confirm div {
+        width: 90%;
+        height: 2rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 0 0.2rem #707070;
+        color: #43b1df;
+        background-color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center; }
+  #template #templateSelectMask {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    top: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+    #template #templateSelectMask input {
+      margin-top: 1rem;
+      width: 94%;
+      height: 2rem;
+      border-radius: 0.5rem; }
+    #template #templateSelectMask .dateS {
+      width: 94%;
+      height: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      display: none;
+      margin-bottom: .6rem; }
+      #template #templateSelectMask .dateS input {
+        width: 40% !important;
+        height: 1.5rem !important; }
+    #template #templateSelectMask ul {
+      padding-bottom: 0.5rem;
+      width: 94%;
+      flex: 1;
+      list-style-type: none;
+      overflow-y: auto;
+      display: flex;
+      align-items: center;
+      flex-direction: column; }
+      #template #templateSelectMask ul li {
+        margin-top: 0.8rem;
+        width: 98%;
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 0.2rem #707070; }
+      #template #templateSelectMask ul .liActive {
+        background-color: #43b1df;
+        color: white; }
+    #template #templateSelectMask .maskBottom {
+      width: 94%;
+      height: 4rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between; }
+      #template #templateSelectMask .maskBottom div {
+        width: 38%;
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 0.2rem #707070; }
+
+.show {
+  transform: scale(1) !important; }
+
+.scale {
+  animation: scale 0.5s ease-out forwards; }
+
+.scale2 {
+  animation: scale2 0.5s ease-out forwards; }
+
+.animate {
+  animation: do 0.8s ease-out forwards; }
+
+@keyframes scale {
+  from {
+    transform: scale(0); }
+  to {
+    transform: scale(1); } }
+
+@keyframes scale2 {
+  from {
+    transform: scale(1); }
+  to {
+    transform: scale(0); } }
+
+@keyframes do {
+  25% {
+    transform: translateY(100px); }
+  50% {
+    transform: translateY(0px); }
+  75% {
+    transform: translateY(25px); }
+  100% {
+    transform: translateY(0px); } }

@@ -1,0 +1,1005 @@
+[ 2020-01-04T11:11:16+08:00 ] ::1 /LySoft_RC/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2020-01-04T11:11:16+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined index: pwd D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 17 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0115s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2020-01-04T11:11:16+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 72 Ë°å.
+SQL:  select * from daygda where txbh ='2001030001'  and appmm = '1'  [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2020-01-04T11:11:16+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2020-01-04T11:11:23+08:00 ] ::1 /LySoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2020-01-04T11:11:23+08:00 ] ::1 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2020-01-04T11:11:23+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 72 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2020-01-04T11:11:23+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+NOTIC: [8] Undefined index: pwd D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 17 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0004s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2020-01-04T11:12:23+08:00 ] ::1 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: select * from daygda where txbh='2001030001' and appmm='1' [ RunTime:0.0014s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2020-01-04T11:12:23+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2020-01-04T11:12:38+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: select  tmbh,px,xh from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px [ RunTime:0.0052s ]
+SQL: select * from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003' [ RunTime:0.0024s ]
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161169763' [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=1 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0002s ]
+SQL: select jhsl from scscd_jhdj where tmbh='200103000006' [ RunTime:0.0021s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 899 Ë°å.
+
+[ 2020-01-04T11:13:04+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2020-01-04T11:13:07+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: select  tmbh,px,xh from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px [ RunTime:0.0029s ]
+SQL: select * from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003' [ RunTime:0.0016s ]
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161169763' [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=1 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0003s ]
+SQL: select jhsl from scscd_jhdj where tmbh='200103000006' [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 899 Ë°å.
+
+[ 2020-01-04T11:13:42+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2020-01-04T11:13:45+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: select  tmbh,px,xh from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px [ RunTime:0.0004s ]
+SQL: select * from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003' [ RunTime:0.0003s ]
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161169763' [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 895 Ë°å.
+SQL: select  tmbh from scscd_gx where px=1 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0002s ]
+SQL: select jhsl from scscd_jhdj where tmbh='200103000006' [ RunTime:0.0002s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 900 Ë°å.
+
+[ 2020-01-04T11:14:09+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000557s ]
+
+[ 2020-01-04T11:14:12+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: select  tmbh,px,xh from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px [ RunTime:0.0030s ]
+SQL: select * from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003' [ RunTime:0.0016s ]
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 896 Ë°å.
+SQL: select  tmbh from scscd_gx where px=0 and dh='SCD2001030003' and xh='2001032027161169763' [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 896 Ë°å.
+SQL: select  tmbh from scscd_gx where px=1 and dh='SCD2001030003' and xh='2001032027161167726' [ RunTime:0.0002s ]
+SQL: select jhsl from scscd_jhdj where tmbh='200103000006' [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 900 Ë°å.
+
+[ 2020-01-04T13:45:27+08:00 ] ::1 /LySoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2020-01-04T13:45:27+08:00 ] ::1 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2020-01-04T13:45:27+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2020-01-04T13:45:27+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0100s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2020-01-04T13:45:55+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='') and dh='SCD2001030002' order by px
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='') and dh='SCD2001030002' order by px
+
+[ 2020-01-04T13:50:26+08:00 ] ::1 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: select * from daygda where txbh='1906280001' and appmm='1' [ RunTime:0.0078s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2020-01-04T13:50:26+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2020-01-04T13:52:25+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='') and dh='SCD2001030002' order by px
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='') and dh='SCD2001030002' order by px
+
+[ 2020-01-04T14:06:44+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030003' order by px
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030003' order by px
+
+[ 2020-01-04T15:04:55+08:00 ] ::1 /LySoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2020-01-04T15:04:55+08:00 ] ::1 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2020-01-04T15:04:55+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2020-01-04T15:04:55+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0008s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2020-01-04T15:05:10+08:00 ] ::1 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: select * from daygda where txbh='2001030001' and appmm='1' [ RunTime:0.0027s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2020-01-04T15:05:10+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2020-01-04T15:05:22+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px
+ERR: 145:[Microsoft][SQL Server Native Client 10.0][SQL Server]»Áπ˚÷∏∂®¡À SELECT DISTINCT£¨ƒ«√¥ ORDER BY ◊”æ‰÷–µƒœÓæÕ±ÿ–Î≥ˆœ÷‘⁄—°‘Ò¡–±Ì÷–°£
+ [ SQLËØ≠Âè• ] : select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' order by px
+
+[ 2020-01-04T15:06:43+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2020-01-04T15:06:46+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' [ RunTime:0.0032s ]
+SQL: select a.gxmc,a.xh,a.tmbh,b.gg,b.ysmc,b.pm,b.gh from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02') [ RunTime:0.0015s ]
+
+[ 2020-01-04T16:55:54+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2020-01-04T16:55:58+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' [ RunTime:0.0051s ]
+ERR: 156:[Microsoft][SQL Server Native Client 10.0][SQL Server]πÿº¸◊÷ 'and' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02' and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh
+ERR: 156:[Microsoft][SQL Server Native Client 10.0][SQL Server]πÿº¸◊÷ 'and' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02' and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh
+
+[ 2020-01-04T16:57:38+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2020-01-04T16:57:40+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='4') and dh='SCD2001030003' [ RunTime:0.0033s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂01','ÈôÑ‰ª∂02') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0049s ]
+
+[ 2020-01-04T17:06:24+08:00 ] ::1 /LySoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2020-01-04T17:06:24+08:00 ] ::1 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2020-01-04T17:06:25+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2020-01-04T17:06:25+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0008s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2020-01-04T17:06:43+08:00 ] ::1 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: select * from daygda where txbh='2001040001' and appmm='1' [ RunTime:0.0017s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2020-01-04T17:06:43+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2020-01-04T17:06:54+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='5') and dh='SCD2001030003' [ RunTime:0.0034s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂02') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0049s ]
+
+[ 2020-01-04T17:07:25+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2020-01-04T17:07:28+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='5') and dh='SCD2001030003' [ RunTime:0.0035s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂02') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0076s ]
+
+[ 2020-01-04T17:20:27+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2020-01-04T17:20:29+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='5') and dh='SCD2001030003' [ RunTime:0.0034s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂02') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂02') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0045s ]
+
+[ 2020-01-04T17:29:37+08:00 ] ::1 /LySoft_RC/index.php/Home/index/zxdl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2020-01-04T17:29:37+08:00 ] ::1 /LySoft_RC/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2020-01-04T17:29:37+08:00 ] ::1 /LySoft_RC/index.php/Home/index/autoLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2020-01-04T17:29:37+08:00 ] ::1 /LySoft_RC/index.php/Home/index/bm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [8] Undefined index: bmid D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 16 Ë°å.
+SQL:  select * from dabmda where id = ''  [ RunTime:0.0008s ]
+SQL:  select * from dabmda where id <> '' order by id  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2020-01-04T17:30:09+08:00 ] ::1 /LySoft_RC/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: select * from daygda where txbh='2001040002' and appmm='1' [ RunTime:0.0016s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\LYSoft_RC\Application\Home\Controller\IndexController.class.php Á¨¨ 48 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2020-01-04T17:30:09+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2020-01-04T17:30:15+08:00 ] ::1 /LySoft_RC/index.php/Home/jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030003' [ RunTime:0.0043s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030003'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030003' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0053s ]
+
+[ 2020-01-04T17:36:32+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0035s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0049s ]
+
+[ 2020-01-04T17:36:58+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/qdjh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 931 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 932 Ë°å.
+ERR: 102:[Microsoft][SQL Server Native Client 10.0][SQL Server]',' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : insert into scscd_jhdj(jhsl,dh,xh,gxmc,tmbh,yggh,ygmc,gj,je,zt) 
+              select 310,'SCD2001030002','2001031310409896976','ÈôÑ‰ª∂01','200103000002','1','1',,*310,1
+ERR: 102:[Microsoft][SQL Server Native Client 10.0][SQL Server]',' ∏ΩΩ¸”–”Ô∑®¥ÌŒÛ°£
+ [ SQLËØ≠Âè• ] : insert into scscd_jhdj(jhsl,dh,xh,gxmc,tmbh,yggh,ygmc,gj,je,zt) 
+              select 310,'SCD2001030002','2001031310409896976','ÈôÑ‰ª∂01','200103000002','1','1',,*310,1
+
+[ 2020-01-04T17:38:31+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0035s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0046s ]
+
+[ 2020-01-04T17:41:53+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0035s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0048s ]
+
+[ 2020-01-04T17:42:40+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0037s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0048s ]
+
+[ 2020-01-04T17:43:28+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0004s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0003s ]
+
+[ 2020-01-04T17:43:56+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0036s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0047s ]
+
+[ 2020-01-04T17:44:57+08:00 ] 192.168.8.252 /LYSoft_RC/index.php/home/Jh/jhcx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: ygbh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 875 Ë°å.
+NOTIC: [8] Undefined index: ygmc D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 876 Ë°å.
+NOTIC: [8] Undefined index: yggh D:\WWW\LYSoft_RC\Application\Home\Controller\JhController.class.php Á¨¨ 877 Ë°å.
+SQL: select  distinct  gxmc from scscd_gx where gxmc in (select gxmc from daygda_gx where yggh='1') and dh='SCD2001030002' [ RunTime:0.0036s ]
+SQL: select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sl,ps from scscd_gx a,scscd_jl b where a.dh=b.dh and a.xh=b.xh and  a.dh='SCD2001030002'  and gxmc in('ÈôÑ‰ª∂01') and px=1
+union all
+select a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh,sum(c.jhsl) as sl,sum(ps)as ps from scscd_gx a,scscd_jl b,scscd_jhdj c where a.dh=b.dh and a.xh=b.xh and  a.dh=c.dh and c.xh=b.xh and  a.dh='SCD2001030002' and a.gxmc in('ÈôÑ‰ª∂01') and px>1 group by  a.gxmc,a.xh,a.tmbh,px,b.ysmc,b.pm,b.gh,a.dh [ RunTime:0.0047s ]
+

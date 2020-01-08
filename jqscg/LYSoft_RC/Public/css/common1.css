@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-overflow-scrolling: touch;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+html,
+body {
+  height: 100%;
+  font-size: 75px;
+}
+
+.mint-indicator-wrapper {
+  width: 1.5rem;
+  height: 1.5rem !important;
+  position: relative;
+}
+.van-tabs__line{
+ background-color: #0894ec !important;
+}
+.van-nav-bar__title {
+  color: #333 !important;
+}
+
+.van-field__label {
+  width: 50px !important;
+}
+
+.van-cell {
+  color: #333 !important;
+}
+
+.van-field__control {
+  color: #666 !important;
+}
+
+.mint-indicator-spin {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-50%)
+}
+
+.mint-spinner-snake {
+  margin: 0;
+}
+
+.mint-indicator-text {
+  width: 100%;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50%;
+}

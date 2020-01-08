@@ -1,0 +1,83 @@
+a {
+	color: #00a042;
+}
+
+.backgroud_box{
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-image: url(../images/top_backg.png), url(../images/bottom_backg.png);
+	background-repeat: no-repeat, no-repeat ,no-repeat;
+	background-position: 0 0, left bottom, center center;
+	background-size: 100%, 100%, 80%;
+	background-color: #fff;
+}
+
+.login_box{
+	width: 50rem;
+	height: 80%;
+	margin: 20% auto;
+	/* background-color: #00a042; */
+}
+
+.login_box .logo{
+	top: 35%;
+	width: 40%;
+	height: 40%;
+	background-color: #fff;
+}
+
+.login_box .logo img{
+	width: 100%;
+}
+
+.login{
+	 margin-top: 26%;
+	 width: 50%;
+	 height: 6rem;
+	 border-radius: 0.8rem;
+	 line-height: 6rem;
+	 text-align: center;
+	 box-sizing: border-box;
+	 font-size: 2.4rem;
+	 letter-spacing: 0.3rem;
+	 color: #4382df;
+	 background-color: #fff;
+	 border: 0.1rem solid #4382df;
+	 border-radius: 3rem;
+ }
+
+.user_box{
+	margin-top: 0rem;
+	height: 10%;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+.user_box div{
+	width: 100%;
+	height: 8rem;
+	box-sizing: border-box;
+}
+
+.user_box div input{
+	margin-top: 9%;
+	width: 100%;
+	height: 5rem;
+	font-size: 2.5rem;
+	letter-spacing: 0.1rem;
+	border: 0.1rem solid #4382df;
+	border-radius: 1rem;
+}
+
+.user_box div select {
+	background-color: white;
+	width: 100%;
+	height: 5rem;
+	font-size: 2.5rem;
+	letter-spacing: 0.1rem;
+	border: 0.1rem solid #4382df;
+	border-radius: 1rem;
+}
